@@ -303,7 +303,6 @@ ON StudentCourse.STUDENT_ID = Student.STUDENT_ID;
         <tr>
             <td>1</td>
             <td>Kabelo Masemola</td>
-            <td>27</td>
         </tr>
         <tr>
             <td>2</td>
