@@ -27,8 +27,6 @@
                     <li><a href="fun_data_driven_systems/database_joins.md">SQL Joins</a></li>
                     <li><a href="fun_data_driven_systems/database_transactions.md">Transactions in sql</a></li>
                     <li><a href="fun_data_driven_systems/database_commits.md">Commits</a></li>
-                    <li><a href="fun_data_driven_systems/database_table.md">Table cloning</a></li>
-                    <li><a href="fun_data_driven_systems/database_temp_tables.md">Temporary tables</a></li>
                 </ol>
             </li>
             <li> No SQL systems
