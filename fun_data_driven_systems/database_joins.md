@@ -106,8 +106,9 @@ Consider the two tables below:
 </table>
 
 
-The simplest Join is **INNER JOIN**.
-####### INNER JOIN
+The simplest Join is **INNER JOIN**.<br>
+###### INNER JOIN
+
 **INNER JOIN** : The INNER JOIN keyword selects all rows from both the tables as long as the condition satisfies.
 This keyword will create the result-set by combining all rows from both the tables where the condition satisfies i.e value 
 of the common field will be same.
