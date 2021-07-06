@@ -20,7 +20,7 @@
         <ol>
             <li>Relational database systems
                 <ol>
-                    <li>Relational data model</li>
+                    <li><a href="fun_data_driven_systems/relational_data_model.md">Relational data model</a></li>
                     <li>Schema</li>
                     <li>Keys</li>
                     <li>Views</li>
