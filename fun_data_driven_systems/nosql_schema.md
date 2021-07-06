@@ -39,9 +39,9 @@ or a single database table with no relations. These are best for simple, small a
 have too much data or complex relations. For example, if you run a small business with a handful 
 of employees, and you wish to store their salary information, a single, flat data model will suffice.
 This model abides by the
-
+<br>
 <img src="flat-model.webp" />
-
+<br>
 
 ### Hierarchical Model
 Hierarchical models have a tree-like structure, with a "root" node of data and child nodes that branch out from that root.
@@ -55,8 +55,9 @@ There are other members of the Homo Genus - **Homo neanderthalensis**, for examp
 From a database perspective, one would need to look for "triple stores". A triple-store is a
 type of database which stores data in the form of "triples."
 A "triple" is a record of data made up of a subject, predicate, and object (in that order).
+<br>
 <img src="h-model.webp" />
-
+<br>
 
 ### Network Model
 
@@ -84,8 +85,10 @@ on the counter and announce "order up!" The server will grab the plate and do a 
 patron asked for. Maybe they asked for no tomatoes, so the server removes the tomato slice from the burger and brings the plate over to the
 happy and hungry customer. In this scenario, there is a
 many-to-many relationship between the food and the different types of employees, and thus, this workflow is best structured using a network model.
-<img src="n-model.webp" />
 
+<br>
+<img src="n-model.webp" />
+<br>
 ### Relational Model
 
 The introduction of the relational database model ushered in a new era of data processing.
@@ -109,7 +112,10 @@ there is a primary dataset ("we sold 300 cars for R200,000 each last quarter"), 
 The key information for the Sales department is the sale numbers, and that information doesn't depend on knowing the color of the cars sold. 
 This type of sales data would be better suited for a Star Schema, 
 which we'll discuss shortly.
+<br>
 <img src="n-model.webp" />
+<br>
+
 ### Star Schema
 
 The star schema is a different way of organizing your data. 
@@ -119,7 +125,9 @@ Returning to our example of car sales numbers: the "fact" table would contain in
 "dimensional" table would have the color of those cars.  
 The interesting thing about star schemas is that they're simply abstractions on top of traditional relational databases. 
 That is, if you have an RDBMS, you can use it to structure your data into a star schema. 
+<br>
 <img src="s-schema.webp" />
+<br>
 
 ### Snowflake Schema
 
@@ -135,4 +143,5 @@ In the star-schema example above, we had a dimensional table indicating the colo
 The operations department might want to know more about the paint other than the color:
 paint brand, cost, number of coats, etc. In this scenario, a snowflake schema would be useful because the
 "color" dimensional table requires it's own dimensional tables (paint brand, cost, number of coats, etc).
+<br>
 <img src="sn-schema.webp" />
