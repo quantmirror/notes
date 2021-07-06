@@ -125,7 +125,7 @@ ON table1.matching_column = table2.matching_column;
 **table2**: Second table<br>
 **matching_column**: Column common to both the tables.<br>
 <br>
-**Note**: We can also write JOIN instead of INNER JOIN. JOIN is same as INNER JOIN.
+**Note**: We can also write JOIN instead of INNER JOIN. JOIN is same as INNER JOIN.<br>
 
 <img src="https://www.w3schools.com/sql/img_innerjoin.gif"/>
 
@@ -191,9 +191,7 @@ ON table1.matching_column = table2.matching_column;
 **table1**: First table.<br>
 **table2**: Second table<br>
 **matching_column**: Column common to both the tables.<br>
-<br>
-
-**Note**:We can also use LEFT OUTER JOIN instead of LEFT JOIN, both are same.
+**Note**:We can also use LEFT OUTER JOIN instead of LEFT JOIN, both are same.<br>
 <img src="https://www.w3schools.com/sql/img_leftjoin.gif"/>
 
 
@@ -279,8 +277,7 @@ ON table1.matching_column = table2.matching_column;
 **table1**: First table.<br>
 **table2**: Second table<br>
 **matching_column**: Column common to both the tables<br>
-
-**Note**: We can also use RIGHT OUTER JOIN instead of RIGHT JOIN, both are same.
+**Note**: We can also use RIGHT OUTER JOIN instead of RIGHT JOIN, both are same.<br>
 <img src="https://www.w3schools.com/sql/img_rightjoin.gif"/>
 
 - right join example:
@@ -355,7 +352,6 @@ ON table1.matching_column = table2.matching_column;
 **table1**: First table.<br>
 **table2**: Second table<br>
 **matching_column**: Column common to both the tables<br>
-
 <img src="https://www.w3schools.com/sql/img_fulljoin.gif"/>
 
 - full join example
