@@ -7,3 +7,7 @@
     Kabelo Masemola < kabelo.masemola@sambe.co.za>
 </h4></p>
 
+1. **MongoDB**
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/mongo-db-logo.png" />
+   
+
