@@ -21,14 +21,14 @@
             <li>Relational database systems
                 <ol>
                     <li><a href="fun_data_driven_systems/relational_data_model.md">Relational data model</a></li>
-                    <li>Schema</li>
-                    <li>Keys</li>
-                    <li>Views</li>
-                    <li>SQL Joins</li>
-                    <li> Transactions in sql</li>
-                    <li> Commits</li>
-                    <li> Table cloning</li>
-                    <li> Temporary tables</li>
+                    <li><a href="fun_data_driven_systems/database_schema.md">Schema</a></li>
+                    <li><a href="fun_data_driven_systems/database_keys.md">Keys</a></li>
+                    <li><a href="fun_data_driven_systems/database_views.md">Views</a></li>
+                    <li><a href="fun_data_driven_systems/database_joins.md">SQL Joins</a></li>
+                    <li><a href="fun_data_driven_systems/database_transactions.md">Transactions in sql</a></li>
+                    <li><a href="fun_data_driven_systems/database_commits.md">Commits</a></li>
+                    <li><a href="fun_data_driven_systems/database_table.md">Table cloning</a></li>
+                    <li><a href="fun_data_driven_systems/database_temp_tables.md">Temporary tables</a></li>
                 </ol>
             </li>
             <li> No SQL systems
