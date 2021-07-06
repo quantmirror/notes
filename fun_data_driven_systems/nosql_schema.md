@@ -89,6 +89,7 @@ many-to-many relationship between the food and the different types of employees,
 <br>
 <img src="n-model.webp" />
 <br>
+
 ### Relational Model
 
 The introduction of the relational database model ushered in a new era of data processing.
