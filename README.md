@@ -41,15 +41,15 @@
             </li>
             <li>Data processing Concepts
                 <ol>
-                    <li>Batch vs Streaming</li>
-                    <li>Lambda architecture</li>
-                    <li>Single thread systems</li>
-                    <li>Parallel processing 
+                    <li><a href="data_processing_concepts/batch_vs_streaming.md">Batch vs Streaming</a></li>
+                    <li><a href="data_processing_concepts/lambda.md">Lambda architecture</a></li>
+                    <li><a href="data_processing_concepts/single_threading.md">Single thread systems</a></li>
+                    <li><a href="data_processing_concepts/parallel_processing.md">Parallel processing</a> 
                         <ol>
-                        <li>Threading</li>
-                        <li>Multi-processing </li>
-                        <li>Distributed system</li>
-                        <li>Resiliency</li>
+                        <li><a href="data_processing_concepts/threading.md">Multi Threading</a></li>
+                        <li><a href="data_processing_concepts/multi_processing.md">Multi-Processing</a></li>
+                        <li><a href="data_processing_concepts/distributed_system.md">Distributed Systems</a></li>
+                        <li><a href="data_processing_concepts/resiliency.md">System Resiliency</a></li>
                         </ol>
                     </li>
                     <li>Popular systems
