@@ -47,7 +47,7 @@
 5. Tshepang Maila: 10 
 6. Mahlatsi Mokwele: 40 
 7. Lerato riba: 0 
-8 Pfarelo Raliphada : Had a dental appointment
+8. Pfarelo Raliphada : Had a dental appointment
 9. Ntombifuthi Sibangoni : Submitted 30 mins late and scored 0
 10. Neo Thamela: did not submit 
 11. Mbhoni Makhubele: Submitted 40 mins late and score 0 
