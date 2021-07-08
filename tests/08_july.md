@@ -7,7 +7,6 @@
     Kabelo Masemola < kabelo.masemola@sambe.co.za>
 </h4></p>
 
-### Reading material
 
 1. Given the following de-normalized data: 
 
