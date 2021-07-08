@@ -17,8 +17,8 @@
 "last_name":"Doe",
 "age":27,
 "gender":"Male",
-"email":"john.doe@sambe.co.za
-"province":"Mpumalanga".
+"email":"john.doe@sambe.co.za,
+"province":"Mpumalanga",
 "city":"Witbank",
 "suburb":"Verena",
 "street":"thabo mbeki dr"
