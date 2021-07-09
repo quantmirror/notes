@@ -56,7 +56,7 @@ the processing of the data, and the delivery of the data to a final location.
     </tbody>
 </table>
 
-###Batch processing vs. stream processing
+### Batch processing vs. stream processing
 The distinction between batch processing and stream processing is one of the most fundamental principles within the big data world.
 There is no official definition of these two terms, but when most people use them, they mean the following:
 - Under the batch processing model, a set of data is collected over time, then fed into an analytics system. In other words, you collect a batch of information,
