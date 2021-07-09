@@ -43,7 +43,6 @@
                 <ol>
                     <li><a href="data_processing_concepts/batch_vs_streaming.md">Batch vs Streaming</a></li>
                     <li><a href="data_processing_concepts/lambda.md">Lambda architecture</a></li>
-                    <li><a href="data_processing_concepts/single_threading.md">Single thread systems</a></li>
                     <li><a href="data_processing_concepts/parallel_processing.md">Parallel processing</a> 
                         <ol>
                         <li><a href="data_processing_concepts/threading.md">Multi Threading</a></li>
