@@ -8,28 +8,6 @@
 </h4></p>
 
 
-1. Given the following de-normalized data: 
-
-```json 
-{
-"first_name":"John",
-"last_name":"Doe",
-"age":27,
-"gender":"Male",
-"email":"john.doe@sambe.co.za,
-"province":"Mpumalanga",
-"city":"Witbank",
-"suburb":"Verena",
-"street":"thabo mbeki dr"
-"unit_no":818,
-"employer":"Sambe Consulting"
-"employment_type":1,
-"salary_bracket":3,
-"marital_status":1,
-}
-
-```
-
 1. What is the difference between NoSQL and RDBMS? 
    Why and why not to use NoSQL databases? What are the various advantages of NoSQL databases? 10 
 2. When should I use a NoSQL database instead of a relational database? 10 
