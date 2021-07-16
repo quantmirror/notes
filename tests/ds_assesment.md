@@ -8,15 +8,15 @@
 </h4></p>
 
 
-##DA 100 
+## DA 100 
 ### Case Study 1 - Liteware,inc 
 
-####Overview:
+#### Overview:
 
-<img src="q1_p1_.png" /><br>
-<img src="q1_p2_.png" /><br>
-<img src="q1_p3_.png" /><br>
-<img src="q1_p4_.png" /><br>
+<img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p1.png?token=ASI6IMWP7G47Q5LLYFCICJ3A6F4LG" /><br>
+<img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p2.png?token=ASI6IMT2RUHDIMOYJXGXCBTA6F4OA" /><br>
+<img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p3.png?token=ASI6IMVD7YNSZIT56T7OWW3A6F4QI" /><br>
+<img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p4.png?token=ASI6IMRRK6LW6NRVOGRQKDTA6F4R4" /><br>
 
 
 
