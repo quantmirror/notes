@@ -14,9 +14,9 @@
 #### Overview:
 
 <img src="q1_p1.png" /><br>
-<img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p2.png?token=ASI6IMT2RUHDIMOYJXGXCBTA6F4OA" /><br>
-<img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p3.png?token=ASI6IMVD7YNSZIT56T7OWW3A6F4QI" /><br>
-<img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p4.png?token=ASI6IMRRK6LW6NRVOGRQKDTA6F4R4" /><br>
+<img src="q1_p2.png" /><br>
+<img src="q1_p3.png" /><br>
+<img src="q1_p4.png" /><br>
 
 
 ## Question 2:
