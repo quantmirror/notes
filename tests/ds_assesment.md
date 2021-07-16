@@ -10,6 +10,7 @@
 
 ##DA 100 
 ### Case Study 1 - Liteware,inc 
+
 ####Overview:
 
 <img src="q1_p1_.png" /><br>
