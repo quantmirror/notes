@@ -58,11 +58,11 @@
 ## Results 
 1. Kabelo Serame : Did not write test -> 0
 2. Phindiwe Ndaba: 41  
-   question 1: -> 10 
-   question 2: -> 0 
-   question 3: ->  0 
-   question 4: -> 6
-   question 5: -> 25 
+   - question 1: -> 10 
+   - question 2: -> 0 
+   - question 3: ->  0 
+   - question 4: -> 6
+   - question 5: -> 25 
 3. Lerato riba: 38
    - question 1 -> 0 
    - question 2 -> 0
