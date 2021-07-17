@@ -11,7 +11,7 @@
 ## Question 1: DA 100 
 ### Case Study 1 - Liteware,inc 
 
-#### Overview:
+#### Overview: 10 
 
 <img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p1.png?token=ASI6IMWP7G47Q5LLYFCICJ3A6F4LG" /><br>
 <img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p2.png?token=ASI6IMT2RUHDIMOYJXGXCBTA6F4OA" /><br>
@@ -19,48 +19,69 @@
 <img src="https://raw.githubusercontent.com/sambe-consulting/notes/master/tests/q1_p4.png?token=ASI6IMRRK6LW6NRVOGRQKDTA6F4R4" /><br>
 
 
-## Question 2:
+## Question 2: 12 
 
-1. What is the columnar data tool used to analyze data in python? 
-2. Given an object instance `df` compute a descriptive stats? 
-3. Get five top rows 
-4. Mention the different types of Data Structures in Pandas?
-5. Define Series in Pandas?
-6.  How can we calculate the standard deviation from the Series?
+1. What is the columnar data tool used to analyze data in python? 2
+2. Given an object instance `df` compute a descriptive stats? 2
+3. Get five top rows 2
+4. Mention the different types of Data Structures in Pandas?2
+5. Define Series in Pandas? 2 
+6.  How can we calculate the standard deviation from the Series? 2
 
-## Question 3:
-1.What’s the trade-off between bias and variance?
-2.What is the difference between supervised and unsupervised machine learning?
-3. How is KNN different from k-means clustering?
-4.  Define precision and recall.?
-5. What is Bayes’ Theorem? How is it useful in a machine learning context?
-6. Why is “Naive” Bayes naive?
+## Question 3: 12 
+1.What’s the trade-off between bias and variance? 2
+2.What is the difference between supervised and unsupervised machine learning? 2
+3. How is KNN different from k-means clustering? 2
+4.  Define precision and recall.? 2
+5. What is Bayes’ Theorem? How is it useful in a machine learning context? 2
+6. Why is “Naive” Bayes naive? 2
 
-## Question 4 
-1.  What is DBMS?
-2.  What is RDBMS?
-3.  What is SQL?
-4.  What is a primary key?
-5.  What is a unique key?
-6.  What is a foreign key?
-7.  What are the types of join and explain each?
-8.  What is normalization?
-9.  What is Denormalization?
-10. What are all the different normalizations?
-11. What is a View?
-12. Write a SQL query to get the third-highest salary of an employee from employee_table?
+## Question 4: 24
+1.  What is DBMS? 2 
+2.  What is RDBMS? 2 
+3.  What is SQL? 2
+4.  What is a primary key? 2 
+5.  What is a unique key? 2 
+6.  What is a foreign key? 2 
+7.  What are the types of join and explain each? 2 
+8.  What is normalization? 2 
+9.  What is Denormalization? 2 
+10. What are all the different normalizations? 2 
+11. What is a View? 2 
+12. Write a SQL query to get the third-highest salary of an employee from employee_table? 2
 
-## Question 5 
-1. What is a distributed system? 
-2. Formalize the concept resiliency? 
-3. list challenges of distributed systems?
+## Question 5 :30 
+1. What is a distributed system?  10 
+2. Formalize the concept resiliency? 10 
+3. list challenges of distributed systems? 10 
 
 ## Results 
-1. Kabelo Serame :
-2. Phindiwe Ndaba:
-3. Lerato riba: 
-4. Pfarelo Raliphada : 
-5. Ntombifuthi Sibangoni : 
+1. Kabelo Serame : Did not write test -> 0
+2. Phindiwe Ndaba: 41  
+   question 1: -> 10 
+   question 2: -> 0 
+   question 3: ->  0 
+   question 4: -> 6
+   question 5: -> 25 
+3. Lerato riba: 38
+   - question 1 -> 0 
+   - question 2 -> 0
+   - question 3 -> 0 
+   - question 4 -> 8 
+   - question 5 -> 30 
+4. Pfarelo Raliphada : 45
+   - question 1 ->0 
+   - question 2 -> 0 
+   - question 3 ->1 
+   - question 4 -> 24 
+   - question 5 -> 20 
+5. Ntombifuthi Sibangoni : 28 
+   - question 1 -> 10 
+   - question 2 -> 2 
+   - question 3 -> 0 
+   - question 4 ->6 
+   - question 5 -> 10 
+
 
 
 
