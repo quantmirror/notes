@@ -75,11 +75,11 @@
    - question 3 ->1 
    - question 4 -> 24 
    - question 5 -> 20 
-5. Ntombifuthi Sibangoni : 28 
+5. Ntombifuthi Sibangoni : 40 
    - question 1 -> 10 
-   - question 2 -> 2 
+   - question 2 -> 10 
    - question 3 -> 0 
-   - question 4 ->6 
+   - question 4 ->10 
    - question 5 -> 10 
 
 
