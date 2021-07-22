@@ -16,7 +16,7 @@
 5. Mbhoni Makhubele and Sihle Ntuli = Random Forest 
 
 #### Instructions
-1.Research your assigned algorithm. 
+1. Research your assigned algorithm. 
 2. Write a scientific paper on the given algorithm. 
 3. Apply the scientific methods to produce quality research
 4. Present the paper 
