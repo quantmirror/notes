@@ -28,7 +28,7 @@ posted to this endpoint. `/learn`. Using Sego
 3. Build the Solution of the problem presented in `Introduction`
 4. Present to me 
 
-#### Due date : 30 July 2021 
+#### Due date : 30 July 2021 15:30
 
 
 
