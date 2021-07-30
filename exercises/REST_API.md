@@ -20,7 +20,7 @@ posted to this endpoint. `/learn`. Using Sego
 6. <a href="https://www.youtube.com/watch?v=7YcW25PHnAA">youtube</a>
 6. <a href="https://www.youtube.com/watch?v=TmsD8QExZ84">youtube</a>
 6. <a href="https://github.com/sambe-consulting/sego ">Sego framework</a>
-6. <a href="">youtube</a>
+6. <a href="https://github.com/sambe-consulting/notes/blob/master/misc/exercise_solution.md">youtube</a>
 
 
 
