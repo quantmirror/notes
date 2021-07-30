@@ -18,9 +18,18 @@ posted to this endpoint. `/learn`. Using Sego
 4. <a href="https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/">smashingmagazine</a>
 5. <a href="https://www.youtube.com/watch?v=MwZwr5Tvyxo">youtube</a>
 6. <a href="https://www.youtube.com/watch?v=7YcW25PHnAA">youtube</a>
-6. <a href="https://www.youtube.com/watch?v=TmsD8QExZ84">youtube</a>
-6. <a href="https://github.com/sambe-consulting/sego ">Sego framework</a>
-6. <a href="https://github.com/sambe-consulting/notes/blob/master/misc/exercise_solution.md">youtube</a>
+7. <a href="https://www.youtube.com/watch?v=TmsD8QExZ84">youtube</a>
+8. <a href="https://github.com/sambe-consulting/sego ">Sego framework</a>
+9. <a href="https://github.com/sambe-consulting/notes/blob/master/misc/exercise_solution.md">youtube</a>
+
+#### Instructions
+1. Research on REST APIs and microservices  
+2. Use the resources given in your research 
+3. Build the Solution of the problem presented in `Introduction`
+4. Present to me 
+
+#### Due date : 30 July 2021 
+
 
 
 
