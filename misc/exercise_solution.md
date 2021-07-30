@@ -15,12 +15,12 @@ So I suspected that some of you are being lazy with the resources that I provide
 So today i gamified my lesson. I provided the full solution as promised but you had to do some reading first. Only those who have done some studying will get to this solution.
 I ask if you have discovered this do not share it with your colleagues this is a teaching moment.Lets begin.
 
-###Environment
+### Environment
 1. linux machine 
 2. Python 3.xx 
 3. Pycharm 
 
-#####Step one install Sego CLI: 
+##### Step one install Sego CLI: 
 1. Visit https://github.com/sambe-consulting/sego-cli
    -<img src="https://raw.githubusercontent.com/sambe-consulting/quick-res/master/sego-cli-repo.png"/>
 2. Click Releases you will be redirected to the release page 
@@ -32,7 +32,7 @@ I ask if you have discovered this do not share it with your colleagues this is a
 5. Go to your terminal and type `sudo chmod +x sego` this makes the binary executable 
 6. then type `sudo mv sego /usr/local/bin/sego` this moves the binary to a system wide bin directory. 
 
-#####Step two test Sego CLI: 
+##### Step two test Sego CLI: 
 1. type `sego`, note for the first time you running a `sego` command it will take a while because it has to go through the ``automatic`` installation process. 
 2. After the installation process is done you will see this screen :
   -<img src="https://raw.githubusercontent.com/sambe-consulting/quick-res/master/sego-command.png"/>
@@ -142,7 +142,7 @@ class JokerController(BaseController):
 
 ```
 
-#####Step five create the /learn endpoint action 
+##### Step five create the /learn endpoint action 
 
 1. inside the JokerController add an action called learn this way: 
 ```python
@@ -199,7 +199,7 @@ curl --data-binary @joke_file.json --header "Content-Type: application/json" -XP
 
 ```
 
-#####Step six create the /tell endpoint action 
+##### Step six create the /tell endpoint action 
 
 1. Inside the `api_routes.py` file add another route:
 
