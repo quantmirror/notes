@@ -1,5 +1,4 @@
-<p align="center" style="background-color:"><img src="https://raw.githubusercontent.com/quantmirror/notes/master/assets/logo.jpeg?token=GHSAT0AAAAAABSSDUBE4DOCZIWGTDVZ4AZ6YSDD4FQ"  width="400"></p>
-<p align="center"><h2 style="color: #193967; text-align: center">
+<p align="center" style="background-color:"><img src="../assets/logo.jpeg"  width="400"></p><p align="center"><h2 style="color: #193967; text-align: center">
     Types of NoSQL storage systems
 </h2></p>
 <p align="center"><h4 style="color: #193967; text-align: center">
