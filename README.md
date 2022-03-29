@@ -5,8 +5,6 @@
 </h2></p>
 <p align="center"><h4 style="color: #193967; text-align: center">
     Kabelo Masemola < kabelo.masemola@quantmirro.io> <br>
-    Bongani Mondlane < bongani.mondlane@quantmirror.io> <br>
-    Edmond Monyebodu < edmond.monyebodu@quantmirror.io > <br>
 </h4></p>
 
 <p align="center">
